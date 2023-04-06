@@ -1,0 +1,46 @@
+{
+    "bikes": [
+        { 
+            "id": 1, 
+            "name": "Cassis", 
+            "wheel": 28,
+            "usage": "offroad",
+            "price": 557900
+        },
+        { 
+            "id": 2, 
+            "name": "Alboin 900", 
+            "wheel": 28,
+            "usage": "trekking",
+            "price": 519900
+        },
+        { 
+            "id": 3, 
+            "name": "Asgard", 
+            "wheel": 29,
+            "usage": "technikás utak",
+            "price": 519900
+        },
+        { 
+            "id": 4, 
+            "name": "Ruga", 
+            "wheel": 29,
+            "usage": "hegyi",
+            "price": 372900
+        },
+        { 
+            "id": 5, 
+            "name": "Reptila", 
+            "wheel": 28,
+            "usage": "városi",
+            "price": 308900
+        },
+        { 
+            "id": 6, 
+            "name": "Sirmium", 
+            "wheel": 29,
+            "usage": "hegyi",
+            "price": 264900
+        }
+    ]
+}

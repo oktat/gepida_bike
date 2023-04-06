@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "hai-server --watch database.json --port 8000"
+  },
+  "devDependencies": {
+    "hai-server": "^0.0.4"
+  }
+}
